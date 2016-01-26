@@ -4,7 +4,8 @@
 #
 # Copyright (c) 2016 The Authors, All Rights Reserved.
 
-package "httpd"
+
+package "httpd" do
 	content "Hello World!"
 end
 
